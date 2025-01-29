@@ -1,1 +1,0 @@
-This repository contains information about data structures and practice related to the concepts of data structures.
